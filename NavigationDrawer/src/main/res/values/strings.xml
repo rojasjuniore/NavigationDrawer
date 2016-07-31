@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Junior Rojas</string>
+    <string name="rojasjuniore">rojasjuniore</string>
+    <string name="drawer_open">Abrir</string>
+    <string name="drawer_close">Cerrar</string>
+    <string name="Buscar">Buscar</string>
+
+    <string-array name="Tags">
+        <item>bmw_serie6_cabrio_2015</item>
+        <item>ford_mondeo</item>
+        <item>jaguar_f_type_2015</item>
+        <item>mazda_mx5_2015</item>
+        <item>mercedes_benz_amg_gt</item>
+        <item>porsche_911_gts</item>
+        <item>seat_leon_st_cupra</item>
+        <item>volvo_v60_crosscountry</item>
+        <item>volkswagen_golf_r_variant_2015</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
